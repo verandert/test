@@ -1,4 +1,4 @@
-* [v1](#/tree/master/v1/readme.md)
+* [v1](/tree/master/v1/readme.md)
 * [Screenshot](#screenshot)
 * [Installation](#installation)  
     * [OR using Pathogen:](#or-using-pathogen)  
